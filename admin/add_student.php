@@ -70,7 +70,7 @@ if (isset($_POST['submit']))
 
                             <label for="file_upload">
 
-                                <img src="<?php echo $student->picture_path() ?>" id="replace_img" width="200" height="200" class="btn hover" alt="">
+                                <img src="<?php echo $student->picture_path()?>" id="replace_img" width="200" height="200" class="btn hover" alt="">
                                 
                             </label>
 

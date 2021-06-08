@@ -13,12 +13,6 @@ function classAutoLoader($class){
         die("This file name {$class}.php was not found, man... ");
     }
 
-
-
-
-
-
-
 }
 
 function redirect($location)

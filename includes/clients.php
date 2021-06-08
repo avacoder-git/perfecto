@@ -1,6 +1,11 @@
 <?php
 
-require_once ("../admin/includes/init.php");
+require_once ("../admin/includes/functions.php");
+require_once ("../admin/includes/new_config.php");
+require_once ("../admin/includes/database.php");
+require_once ("../admin/includes/db_object.php");
+require_once ("../admin/includes/reference.php");
+require_once ("../admin/includes/university.php");
 
 
 if (isset($_POST['send_data'])) {

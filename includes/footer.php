@@ -86,7 +86,7 @@
         </div>
         <div class="row text-center my-4">
             <div class="col-lg-12">
-                <a href="https:/www.t.me/avacoder_uz" class="text-light " style="text-decoration: none;">Designed and Developed by AVACODER</a>
+                <a href="https://www.t.me/avacoder_uz" class="text-light " style="text-decoration: none;">Designed and Developed by AVACODER</a>
 
             </div>
         </div>

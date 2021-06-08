@@ -11,7 +11,6 @@ require_once ("country.php");
 require_once ("comment.php");
 require_once ("reference.php");
 require_once ("session.php");
-require_once ("language.php");
 
 
 
