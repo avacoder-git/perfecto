@@ -1,9 +1,9 @@
 <?php
 
 define("DB_HOST", "localhost");
-define("DB_NAME", "perfecto_perfecto");
-define("DB_USER", "perfecto_perfecto");
-define("DB_PASSWORD", "3Qe1yvjXE");
+define("DB_NAME", "");
+define("DB_USER", "");
+define("DB_PASSWORD", "");
 
 
 
